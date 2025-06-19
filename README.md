@@ -31,7 +31,7 @@ It explores the values and vision of the Optimism Collective through visual stor
 
 You can download the full illustrated book here:
 
-👉 [`BUILD_FOR_GOOD_The_Optimism_Way_FINAL_COVER.pdf`](./BUILD_FOR_GOOD_The_Optimism_Way_FINAL_COVER.pdf)
+👉 [BUILD_FOR_GOOD_The_Optimism_Way.pdf)
 
 
 ---## 📰 Read More on Medium
