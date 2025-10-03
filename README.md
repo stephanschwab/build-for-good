@@ -59,3 +59,10 @@ It is a public domain dedication — feel free to use, remix, translate, or shar
 
 This work is part of a growing ecosystem of contributions for public benefit.  
 Learn more and support others: [optimism.io](https://www.optimism.io)
+
+## 🌍 BuildForGood Ecosystem  
+This project is part of the BuildForGood Ecosystem for Optimism.  
+
+📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
+
+🔗 Explore the full ecosystem: [BuildForGood Ecosystem on Optimism Atlas](https://atlas.optimism.io/profile/organizations/BuildForGood%20Ecosystem)
