@@ -1,5 +1,5 @@
 # 📘 BUILD FOR GOOD: The Optimism Way
-##📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.  
+**📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.  
 
 ### A Visual Public Good for the Optimism Collective  
 Created by Stephan
