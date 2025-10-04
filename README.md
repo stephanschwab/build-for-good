@@ -45,6 +45,16 @@ It explains the motivation, vision, and how this book contributes to the RetroPG
 Medium (https://medium.com/@stephanschwab/30-op-cards-nfts-as-public-goods-education-inspiration-optimism-1baa4df74bbc)
 🎴 30 OP Cards — NFTs as Public Goods Education. Inspiration. Optimism.
 
+## 📊 Impact Metrics (as of 04/10/2025)
+
+| Metric | Last 14 days |
+|---------|---------------|
+| 🧩 GitHub Clones | 39 |
+| 👥 Unique Cloners | 32 |
+| 👀 Total Views | 96 |
+| 🌍 Unique Visitors | 3 |
+
+> 📘 *Consistent growth shows active interest from the Optimism community and badgeholders exploring the BuildForGood materials.*
 
 ## 🪪 License
 
