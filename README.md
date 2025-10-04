@@ -1,4 +1,4 @@
-# BUILD-FOR-GOOD:The Optimism Way
+# build-for-good-the-optimism-way
 # 📘 BUILD FOR GOOD: The Optimism Way
 📌 **This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.**  
 
