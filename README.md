@@ -54,6 +54,8 @@ Medium (https://medium.com/@stephanschwab/30-op-cards-nfts-as-public-goods-educa
 | 👀 Total Views | 96 |
 | 🌍 Unique Visitors | 3 |
 
+![GitHub traffic growth chart](./images/traffic-oct2025.png)
+> *Source: GitHub Insights — growth in clones and views (last 14 days).*
 > 📘 *Consistent growth shows active interest from the Optimism community and badgeholders exploring the BuildForGood materials.*
 
 ## 🪪 License
